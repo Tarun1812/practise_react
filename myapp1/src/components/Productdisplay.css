@@ -1,0 +1,14 @@
+.main {
+    display: inline-block;
+}
+.card {
+    width: 20%;
+    float: left;
+    margin: 2%;
+    box-shadow: 10px 10px 15px grey;
+    height: 300px;
+}
+.card img {
+    width: 58%;
+    height: 137px;
+}
