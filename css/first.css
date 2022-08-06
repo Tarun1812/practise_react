@@ -1,0 +1,32 @@
+.main {
+    display: inline-block;
+    width: 100%;
+}
+.header {
+    float: left;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.headertext {
+    width: 67%;
+    /* border: 1px solid red; */
+    margin-left: 23%;
+    margin-top: -15%;
+    margin-bottom: 10%;
+}
+.details {
+    /* border: 1px solid white; */
+    height: 30%;
+    width: 50%;
+    margin-left: 5%;
+}
+.details table {
+    /* margin-left: 5%; */
+    border: 1px solid white;
+    color: azure;
+    text-align: center;
+}
+.details th, td {
+    border: 1px solid white;
+    text-align: center;
+}
